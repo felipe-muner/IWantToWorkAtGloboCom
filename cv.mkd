@@ -40,17 +40,17 @@ Frameworsk : Struts1, Struts2, Servlet, Jquery, JSON, AJAX
 JavaScript e banco de dados MySQL.
 
 
-FORMAÇÃO ACADÊMICA<br />
+<b>FORMAÇÃO ACADÊMICA</b><br />
 Ciência da computação(6o PERÍODO) - uniCarioca
 
-IDIOMAS<br />
+<b>IDIOMAS</b><br />
 Inglês intermediário
 
-EXPERIÊNCIAS PROFISSIONAIS<br />
+<b>EXPERIÊNCIAS PROFISSIONAIS</b><br />
 BRQ - Programador Java / JavaScript 01/04/2013 - 01/06/2014
 Funarte - Programador PHP / MySQL / javaScript de 01/04/2012 até 30/03/2013
-
-CURSOS COMPLEMENTARES<br />
+<b>
+CURSOS COMPLEMENTARES</b><br />
 Java Web Developer -COTI (2013)
 Cisco CCNA - Mcury (2010)
 Linux iniciante - GUIAFOCA (2010)
