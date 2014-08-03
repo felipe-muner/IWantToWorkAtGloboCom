@@ -1,7 +1,11 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Esporte
+Área de Jornalismo
+Produtos Globo.com
+Plataforma de Cadastro
+Plataforma de Personalização
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
@@ -9,7 +13,54 @@ __Dicas:__
 CV
 ==
 
-[Preencha aqui o seu cv]
+FELIPE CUNHA MUNER
+RUA DA GLÓRIA, 214 / 904
+BRASILEIRO
+CEP: 20241-180 – GLORIA - RIO DE JANEIRO- RJ
+24 ANOS - 07/03/1990
+FELIPE.MUNER@GMAIL.COM
+SOLTEIRO
+RESIDENCIAL: (21)3546-8103 / CELULAR: (21)99399-0354
+
+OBJETIVOS
+
+· Desenvolver sistemas e me formar em 2015.
+
+
+PRINCIPAIS QUALIFICAÇÕES
+
+· (Freelancer) Criando sistemas nas mais atuais ferramentas de
+desenvolvimento, Jquery, Bootstrap3, AlloyUI, AngularJS, Maven, Grunt,
+Bower, Yeoman.
+
+· (Be-Interactive) Trabalho de 2 semanas além de desenvolver o site, atualizações em tempo real ao longo do evento internacional de reitores, Universia 2014.
+
+· (BRQ) Desenvolvendo sistemas bancários criando telas (HTML/CSS),
+fazendo as validações necessárias(JavaScript) , e recuperando esses valores
+no Java para inserção no banco de dados.
+Frameworsk : Struts1, Struts2, Servlet, Jquery, JSON, AJAX
+
+· (FUNARTE) Manutenção de sistemas internos desenvolvidos em PHP,
+JavaScript e banco de dados MySQL.
+
+
+FORMAÇÃO ACADÊMICA
+Ciência da computação(6o PERÍODO) - uniCarioca
+
+
+IDIOMAS
+Inglês intermediário
+
+
+EXPERIÊNCIAS PROFISSIONAIS
+BRQ - Programador Java / JavaScript 01/04/2013 - 01/06/2014
+Funarte - Programador PHP / MySQL / javaScript de 01/04/2012 até 30/03/2013
+
+CURSOS COMPLEMENTARES
+Java Web Developer -COTI (2013)
+Cisco CCNA - Mcury (2010)
+Linux iniciante - GUIAFOCA (2010)
+Redes Cliente-Servidor - SENAC (2008)
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
