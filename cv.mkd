@@ -1,10 +1,10 @@
 Vaga
 ====
 
-Área de Esporte
-Área de Jornalismo
-Produtos Globo.com
-Plataforma de Cadastro
+Área de Esporte<br /> 
+Área de Jornalismo<br /> 
+Produtos Globo.com<br /> 
+Plataforma de Cadastro<br /> 
 Plataforma de Personalização
 
 CV
