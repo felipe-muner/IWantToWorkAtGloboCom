@@ -47,12 +47,12 @@ Ciência da computação(6o PERÍODO) - uniCarioca
 Inglês intermediário
 
 <b>EXPERIÊNCIAS PROFISSIONAIS</b><br />
-BRQ - Programador Java / JavaScript 01/04/2013 - 01/06/2014
-Funarte - Programador PHP / MySQL / javaScript de 01/04/2012 até 30/03/2013
+BRQ - Programador Java / JavaScript 01/04/2013 - 01/06/2014<br />
+Funarte - Programador PHP / MySQL / javaScript de 01/04/2012 até 30/03/2013<br />
 <b>
 CURSOS COMPLEMENTARES</b><br />
-Java Web Developer -COTI (2013)
-Cisco CCNA - Mcury (2010)
-Linux iniciante - GUIAFOCA (2010)
-Redes Cliente-Servidor - SENAC (2008)
+Java Web Developer -COTI (2013)<br />
+Cisco CCNA - Mcury (2010)<br />
+Linux iniciante - GUIAFOCA (2010)<br />
+Redes Cliente-Servidor - SENAC (2008)<br />
 
