@@ -20,11 +20,11 @@ SOLTEIRO<br />
 RESIDENCIAL: (21)3546-8103 / CELULAR: (21)99399-0354<br />
 </b>
 
-<b>OBJETIVOS</b>
+<b>OBJETIVOS</b><br />
 · Desenvolver sistemas e me formar em 2015.
 
 <b>
-PRINCIPAIS QUALIFICAÇÕES
+PRINCIPAIS QUALIFICAÇÕES<br />
 </b>· (Freelancer) Criando sistemas nas mais atuais ferramentas de
 desenvolvimento, Jquery, Bootstrap3, AlloyUI, AngularJS, Maven, Grunt,
 Bower, Yeoman.
@@ -40,19 +40,17 @@ Frameworsk : Struts1, Struts2, Servlet, Jquery, JSON, AJAX
 JavaScript e banco de dados MySQL.
 
 
-FORMAÇÃO ACADÊMICA
+FORMAÇÃO ACADÊMICA<br />
 Ciência da computação(6o PERÍODO) - uniCarioca
 
-
-IDIOMAS
+IDIOMAS<br />
 Inglês intermediário
 
-
-EXPERIÊNCIAS PROFISSIONAIS
+EXPERIÊNCIAS PROFISSIONAIS<br />
 BRQ - Programador Java / JavaScript 01/04/2013 - 01/06/2014
 Funarte - Programador PHP / MySQL / javaScript de 01/04/2012 até 30/03/2013
 
-CURSOS COMPLEMENTARES
+CURSOS COMPLEMENTARES<br />
 Java Web Developer -COTI (2013)
 Cisco CCNA - Mcury (2010)
 Linux iniciante - GUIAFOCA (2010)
