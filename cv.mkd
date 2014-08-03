@@ -17,16 +17,15 @@ CEP: 20241-180 – GLORIA - RIO DE JANEIRO- RJ<br />
 24 ANOS - 07/03/1990<br /> 
 FELIPE.MUNER@GMAIL.COM<br /> 
 SOLTEIRO<br /> 
-RESIDENCIAL: (21)3546-8103 / CELULAR: (21)99399-0354
+RESIDENCIAL: (21)3546-8103 / CELULAR: (21)99399-0354<br />
 </b>
-OBJETIVOS
 
+<b>OBJETIVOS</b>
 · Desenvolver sistemas e me formar em 2015.
 
-
+<b>
 PRINCIPAIS QUALIFICAÇÕES
-
-· (Freelancer) Criando sistemas nas mais atuais ferramentas de
+</b>· (Freelancer) Criando sistemas nas mais atuais ferramentas de
 desenvolvimento, Jquery, Bootstrap3, AlloyUI, AngularJS, Maven, Grunt,
 Bower, Yeoman.
 
