@@ -20,16 +20,13 @@ SOLTEIRO<br />
 RESIDENCIAL: (21)3546-8103 / CELULAR: (21)99399-0354<br />
 </b>
 
-<b>OBJETIVOS</b><br />
-· Desenvolver sistemas e me formar em 2015.
-
 <b>
 PRINCIPAIS QUALIFICAÇÕES<br />
 </b>· (Freelancer) Criando sistemas nas mais atuais ferramentas de
 desenvolvimento, Jquery, Bootstrap3, AlloyUI, AngularJS, Maven, Grunt,
 Bower, Yeoman.
 
-· (Be-Interactive) Trabalho de 2 semanas além de desenvolver o site, atualizações em tempo real ao longo do evento internacional de reitores, Universia 2014.
+· (Be-Interactive) Além de desenvolver o site, atualizações em tempo real ao longo do evento internacional de reitores, Universia 2014.
 
 · (BRQ) Desenvolvendo sistemas bancários criando telas (HTML/CSS),
 fazendo as validações necessárias(JavaScript) , e recuperando esses valores
@@ -53,7 +50,7 @@ Funarte - Programador PHP / MySQL / javaScript de 01/04/2012 até 30/03/2013<br 
 
 <b>
 CURSOS COMPLEMENTARES</b><br />
-Java Web Developer -COTI (2013)<br />
+Java Web Developer - COTI (2013)<br />
 Cisco CCNA - Mcury (2010)<br />
 Linux iniciante - GUIAFOCA (2010)<br />
 Redes Cliente-Servidor - SENAC (2008)<br />
